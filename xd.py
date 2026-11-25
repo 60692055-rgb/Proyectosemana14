@@ -17,6 +17,8 @@ q0, F = "q0", {"q4"}
 
 # === Simulación ===
 # ahhhhhhhhhhh nose 
+#XDDDDDDDDD
+#jsjsjssjssj
 def run(s):
     q, steps = q0, [q0]
     for i,ch in enumerate(s):
