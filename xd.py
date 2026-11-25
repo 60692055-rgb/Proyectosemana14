@@ -19,6 +19,7 @@ q0, F = "q0", {"q4"}
 # ahhhhhhhhhhh nose 
 #XDDDDDDDDD
 #jsjsjssjssj
+# hay angelito ahora fijate bien un cometario mas 
 def run(s):
     q, steps = q0, [q0]
     for i,ch in enumerate(s):
